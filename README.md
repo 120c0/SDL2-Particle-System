@@ -4,5 +4,7 @@
 
 ## Images
 <img src="images/prints/image_1.pmg"/>
+
 <img src="images/prints/image_2.pmg"/>
+
 <img src="images/prints/image_3.pmg"/>
