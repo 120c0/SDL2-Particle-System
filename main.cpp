@@ -13,8 +13,8 @@ SDL_Texture *particles_image[6];
 std::random_device rd;
 std::default_random_engine generator(rd());
 
-std::uniform_real_distribution<float> ffx(0.01, 2);
-std::uniform_real_distribution<float> ffy(0.01, 3);
+std::uniform_real_distribution<float> ffx(0.01f, 2.f);
+std::uniform_real_distribution<float> ffy(0.01f, 3.f);
 
 class Particle
 {
